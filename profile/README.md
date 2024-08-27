@@ -7,7 +7,7 @@ At present it consists of the following repositories:
 
 1. [TCInsignts](https://github.com/reaskearth/api): A collection of demo notebooks to explore Tropical Cyclone risk and past events.
 2. [pylt, YLT Adjustment Tool](https://github.com/reaskearth/pylt): Adjust a Year Loss Table (YLT) using Reask's Tropical Cyclone trackset.
-3. [Parametric](https://github.com/reaskearth/parametric): Tools/scripts to perform common Parametric Insurance calculations and workflows.
+3. [Parametric](https://github.com/reaskearth/parametrics): Tools/scripts to perform common Parametric Insurance calculations and workflows.
 4. [API](https://github.com/reaskearth/api): A Python client and comprehensive test code to access the [Reask API](https://api.reask.earth/v2/redoc).
 
 # Usage
