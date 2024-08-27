@@ -16,4 +16,4 @@ Each of the repositories above have their own README with detailed instructions 
 
 # License
 
-Reask Open Analytics uses the permissive free software (Apache 2.0 License)[LICENCE.md].
+Reask Open Analytics uses the permissive free software [Apache 2.0 License](https://github.com/reaskearth/.github/blob/main/LICENSE.md).
