@@ -1,2 +1,3 @@
 # .github
-Public organisation profile for Reask Open Analytics
+
+Public organisation profile for Reask Open Analytics. See profile/README.md
