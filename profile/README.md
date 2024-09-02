@@ -6,7 +6,7 @@ The **Reask Open Analytics** project provides Open Source software and documenta
 At present it consists of the following repositories:
 
 1. [Insignts](https://github.com/reaskearth/insights): A collection of demo notebooks to explore Tropical Cyclone risk, past present and future.
-2. [pylt, YLT Adjustment Tool](https://github.com/reaskearth/pylt): Adjust a Year Loss Table (YLT) using Reask's Tropical Cyclone trackset.
+2. [pylt, YLT Adjustment Tool](https://github.com/reaskearth/pylt): Adjust a Year Loss Table (YLT) using Reask's climate conditioned Tropical Cyclone trackset.
 3. [Parametrics](https://github.com/reaskearth/parametrics): Tools/scripts to perform common Parametric Insurance calculations and workflows.
 4. [API](https://github.com/reaskearth/api): A Python client and comprehensive test code for the [Reask API](https://api.reask.earth/v2/redoc).
 
